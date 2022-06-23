@@ -1,0 +1,19 @@
+{
+  "name": "decinal-to-binary-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:savio-84/decinal-to-binary-converter.git",
+  "author": "<savio.carvalho@clicksoft.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node-dev teste.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  },
+  "dependencies": {
+    "data-structures-savio-araujo": "^1.0.0",
+    "typescript": "^4.5.5"
+  }
+}
